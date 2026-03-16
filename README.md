@@ -40,7 +40,7 @@ Output:
 
 To use the proxy with Diablo II: Resurrected:
 
-1. Either build the project and take `build\winhttp.dll`, or download `winhttp.dll` from the project release.
+1. Either build the project and take `build\winhttp.dll`, or [download](https://github.com/CriDos/d2r_offline/releases) `winhttp.dll` from the project release.
 2. Copy `winhttp.dll` into the game directory, next to the main game executable.
 3. Start the game executable directly, without the Blizzard launcher.
 4. On first launch, let the DLL generate `d2r_offline.ini` automatically or place your own config next to `winhttp.dll`.

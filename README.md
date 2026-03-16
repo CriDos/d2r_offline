@@ -52,8 +52,6 @@ Recommended first-run checks:
 - `cookie.bin` is created under `%LocalAppData%\Blizzard Entertainment\ClientSdk\`
 - the game starts with the expected language and offline session state
 
-If you are replacing an existing file in the game directory, keep a backup of the original `winhttp.dll`.
-
 ## Config
 
 The DLL looks for `d2r_offline.ini` next to itself. If the file does not exist, it is created automatically:
